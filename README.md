@@ -1,14 +1,11 @@
-# data-journey
-Estudos e práticas em Python, estatística, machine learning e análise de dados.
-*Studies and practices in Python, statistics, machine learning and data analysis.*
-
-Sou apaixonada por finanças, dados e tecnologia.
-Este repositório é um espaço de aprendizado contínuo, onde compartilho minhas práticas e evolução na área de Ciência de Dados.
-
 # 📊 Data Journey
 
 Bem-vindo ao meu repositório de estudos em **Ciência de Dados**!  
 Aqui registro minha jornada de aprendizado, explorando estatística, programação, análise de dados e machine learning.
+*Studies and practices in Python, statistics, machine learning and data analysis.*
+
+Sou apaixonada por finanças, dados e tecnologia.
+Este repositório é um espaço de aprendizado contínuo, onde compartilho minhas práticas e evolução na área de Ciência de Dados.
 
 ---
 
